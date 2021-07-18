@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600895652189",
+    "project_id": "instasave1234",
+    "storage_bucket": "instasave1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600895652189:android:dcdf577b24983fc09728b4",
+        "android_client_info": {
+          "package_name": "com.kedhar.instasave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600895652189-75uplhp1lt23km8pepjppa3usp83c0j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRnZvBpE24bvBtv3d63bFY6AJhK08lpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600895652189-75uplhp1lt23km8pepjppa3usp83c0j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
